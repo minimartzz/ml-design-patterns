@@ -4,5 +4,8 @@ blissful-hash-268906-45bb98a1e08e.json
 # env file
 .env
 
+# virtual env
+.venv
+
 # data folders
 */data
